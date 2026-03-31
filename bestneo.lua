@@ -1,4 +1,4 @@
-﻿-- [[ NEOHUB - TOTO STYLE ULTIMATE (AUTO GRAB ADDED) ]]
+-- [[ NEOHUB - TOTO STYLE ULTIMATE (AUTO GRAB ADDED) ]]
 repeat task.wait() until game:IsLoaded()
 
 local Players = game:GetService("Players")
